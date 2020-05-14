@@ -9,7 +9,7 @@ function generateBanner(title) {
   let lineBottom = document.querySelector(".vertical-line-bottom");
   for (let i = 0; i < title.length; i++) {
     let charBox = document.createElement("div");
-    let rn = random(1.5, 3.5);
+    let rn = random(2, 4);
     charBox.innerHTML = "<span class='char'>" + title[i] + "</span>";
     let charSize = rn + "rem";
     banner.insertBefore(charBox, lineBottom);
