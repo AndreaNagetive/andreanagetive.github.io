@@ -45,7 +45,7 @@
     margin: auto;
     padding: 7px;
     bottom: 280px;
-    left: 0px;
+    left: 20px;
     text-align: center;
     border: 2px solid rgba(75,127,199,0.9);
     border-radius: 5px;
@@ -65,7 +65,7 @@
 .live_talk_input_body{
 	position:absolute;
 	bottom:15px;
-	left:0;
+	left:5;
 	width:250px;
 	display:none;
 	z-index:4;
