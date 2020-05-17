@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>The Problem of the Calissons</title>
+      <link href="/2020/05/17/Calisson%20Problem/"/>
+      <url>/2020/05/17/Calisson%20Problem/</url>
+      
+        <content type="html"><![CDATA[<p>How to solve the problem of the Calissons?<br>How many ways we can use to prove it?</p><a id="more"></a><h2 id="卡里森镶嵌问题"><a href="#卡里森镶嵌问题" class="headerlink" title="卡里森镶嵌问题"></a>卡里森镶嵌问题</h2><p>The Problem of the Calissons</p><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p><em>卡里森</em>，是一款著名的法国传统糖果。</p><p><em>Calissons</em>, are a famous french traditional candy. <strong>如图一</strong></p><hr><p><img src="https://imgkr.cn-bj.ufileos.com/c8dbe559-5eb3-4440-a87c-4f0dd261f0d7.jpg" alt="Calissons D&#39;Aix Roy Rene" loading="lazy"></p><hr><h2 id="引入"><a href="#引入" class="headerlink" title="引入"></a><strong>引入</strong></h2><p>将每一块糖果看成由两个相同的三角形所拼成的菱形。让一定数量的边长为1的卡里森糖果包装入一个边长为n的六边形的盒子中，并使得每个糖果最短的对角线平行于盒子的一组对边。</p><p>We refer to these three possibilities by saying that a calisson admits three distinct orientations. 任何一块糖果会有三种方向上的可能</p><p><strong>如图二</strong></p><hr><p><img src="https://imgkr.cn-bj.ufileos.com/5ce88742-a837-492b-bef4-45fd994ec2f5.png" alt="Proofs Without Words by Nelsen" loading="lazy"></p><hr><h2 id="请证明"><a href="#请证明" class="headerlink" title="请证明:"></a>请证明:</h2><p><code>In any packing, the number of calissons with a given orientation is one-third of the total number of calissons in the box 在任何包装的方法下，在同一个方向下的卡里森的数量是总数量的三分之一</code></p><hr>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Math Questions </tag>
+            
+            <tag> Math </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>We are here, WeSigma.top.</title>
       <link href="/2020/05/15/Hello%20WeSigma/"/>
       <url>/2020/05/15/Hello%20WeSigma/</url>
